@@ -1,0 +1,16 @@
+{
+    "name": "igor/modul",
+    "description": "shop",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "igort1m",
+            "email": "igorrteam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/var-dumper": "^3.2"
+    }
+}
